@@ -141,7 +141,7 @@ For convenience of experimenting, you might want to pick up one of these:
 - Remember, the Pi GPIO can only sink or source 2mA - 8mA
   - By comparison, Arduino: 40 mA per pin
 - That's just about enough for an LED
-- Series Resistor: (3.3V - 2V)/ 0.002mA = 667&#937;
+- Series Resistor: (3.3V - 2V)/ 0.002A = 667&#937;
 
 
 ## Digital Output - Transistor Driver
