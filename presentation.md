@@ -1,6 +1,10 @@
 # Using GPIO on the Raspberry Pi
 
+<div align=center>
+By Greg Trasuk<br>
+Originally presented at the Hamilton Internet of Things Meetup, Nov 30, 2016<br>  
 
+</div>
 
 - The Internet of Things is all about devices connected to physical systems.  
 - To start with, we'll need to connect to the things!  
