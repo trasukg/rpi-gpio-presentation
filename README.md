@@ -1,3 +1,23 @@
+# GPIO on the Raspberry Pi
+
+This is a presentation that I did on November 30, 2016 for the Hamilton
+Internet of Things Meetup.
+
+In it, I present an introduction to GPIO and digital I/O on the Raspberry Pi
+platform.  There are several circuits shown for input and output, including switches
+LEDs and Relay drivers.
+
+The presentation is done with 'reveal.js', a JavaScript-based presentation framework
+described below.  Short instructions on how to use this presentation:
+
+- Clone this repository
+- 'cd' into the repository
+- 'npm install' to load all the npm modules
+- 'npm start' to startup the web server
+- Use a browser to load http://localhost:8000
+
+Enjoy...
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js) <a href="https://slides.com?ref=github"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
